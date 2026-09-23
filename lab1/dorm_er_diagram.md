@@ -53,7 +53,7 @@ erDiagram
 
     DORM {
         int DormID PK
-        int ParkingSlotID FK
+        int address UK
     }
 
     ROOMS {
